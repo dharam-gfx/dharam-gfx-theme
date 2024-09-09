@@ -1,4 +1,3 @@
-```markdown
 # VS Code Extension Quickstart
 
 Welcome to the **dharam-gfx theme** extension! Elevate your coding environment with our meticulously crafted themes that bring both style and functionality to your workspace. The **dharam-gfx theme** offers a unique blend of colors designed to enhance your coding experience and keep you inspired. Alongside this theme, we provide a curated selection of popular themes, including **Tokyo Night**, **Slack Dark**, **One Dark**, **Material Theme**, **GitHub Dark**, **Dracula Theme**, and **GitHub Light**. In total, our extension includes **10 light themes** and **25 dark themes**, each carefully designed to offer a distinctive visual style. Whether you prefer a light or dark aesthetic, we have a theme to suit your needs. Transform your editor with our themes and enjoy a vibrant, productive coding journey.
@@ -62,4 +61,3 @@ This project is licensed under the [MIT License](LICENSE).
 ---
 
 Thank you for choosing **dharam-gfx theme**. We hope these themes enhance your coding experience and make your editor a more vibrant place to work!
-```
