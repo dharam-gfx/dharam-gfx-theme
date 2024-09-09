@@ -1,0 +1,303 @@
+{
+  "name": "dharam-gfx-theme",
+  "displayName": "dharam-gfx theme",
+  "description": "Transform your coding workspace with our stunning themes. The **dharam-gfx theme** offers a vibrant palette to brighten your coding sessions, while our selection of popular themes provides a versatile range of visual styles. Perfect for both beginners and seasoned developers, our themes are crafted to provide a delightful and productive coding experience.",
+  "version": "0.0.1",
+  "type": "module",
+  "publisher": "dharmendra kumar",
+  "icon": "images/dharamgfx.png",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/dharam-gfx/dharam-gfx-theme"
+  },
+  "engines": {
+    "vscode": "^1.93.0"
+  },
+  "keywords": [
+    "theme",
+    "dark theme",
+    "best dark theme",
+    "coder theme",
+    "dharam gfx theme",
+    "dharam-gfx theme",
+    "dharam theme",
+    "dharam gfx",
+    "dharam-gfx",
+    "Tokyo Night",
+    "Slack Dark",
+    "One Dark",
+    "Material Theme",
+    "GitHub Dark",
+    "Dracula Theme"
+  ],
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "dharam-gfx theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/dharam-gfx-theme.json"
+      },
+      {
+        "label": "Andromeeda",
+        "uiTheme": "vs-dark",
+        "path": "./themes/andromeeda-theme.json"
+      },
+      {
+        "label": "Aurora X",
+        "uiTheme": "vs-dark",
+        "path": "./themes/aurora-x-theme.json"
+      },
+      {
+        "label": "Ayu Dark",
+        "uiTheme": "vs-dark",
+        "path": "./themes/ayu-dark-theme.json"
+      },
+      {
+        "label": "Catppuccin Frappé",
+        "uiTheme": "vs-dark",
+        "path": "./themes/catppuccin-frappe-theme.json"
+      },
+      {
+        "label": "Catppuccin Latte",
+        "uiTheme": "vs-dark",
+        "path": "./themes/catppuccin-latte-theme.json"
+      },
+      {
+        "label": "Catppuccin Macchiato",
+        "uiTheme": "vs-dark",
+        "path": "./themes/catppuccin-macchiato-theme.json"
+      },
+      {
+        "label": "Catppuccin Mocha",
+        "uiTheme": "vs-dark",
+        "path": "./themes/catppuccin-mocha-theme.json"
+      },
+      {
+        "label": "Dark Plus",
+        "uiTheme": "vs-dark",
+        "path": "./themes/dark-plus-theme.json"
+      },
+      {
+        "label": "Dracula Theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/dracula-theme.json"
+      },
+      {
+        "label": "Dracula Theme Soft",
+        "uiTheme": "vs-dark",
+        "path": "./themes/dracula-soft-theme.json"
+      },
+      {
+        "label": "Everforest Dark",
+        "uiTheme": "vs-dark",
+        "path": "./themes/everforest-dark-theme.json"
+      },
+      {
+        "label": "Everforest Light",
+        "uiTheme": "vs-dark",
+        "path": "./themes/everforest-light-theme.json"
+      },
+      {
+        "label": "GitHub Dark",
+        "uiTheme": "vs-dark",
+        "path": "./themes/github-dark-theme.json"
+      },
+      {
+        "label": "GitHub Dark Default",
+        "uiTheme": "vs-dark",
+        "path": "./themes/github-dark-default-theme.json"
+      },
+      {
+        "label": "GitHub Dark Dimmed",
+        "uiTheme": "vs-dark",
+        "path": "./themes/github-dark-dimmed-theme.json"
+      },
+      {
+        "label": "GitHub Dark High Contrast",
+        "uiTheme": "vs-dark",
+        "path": "./themes/github-dark-high-contrast-theme.json"
+      },
+      {
+        "label": "GitHub Light",
+        "uiTheme": "vs-dark",
+        "path": "./themes/github-light-theme.json"
+      },
+      {
+        "label": "GitHub Light Default",
+        "uiTheme": "vs-dark",
+        "path": "./themes/github-light-default-theme.json"
+      },
+      {
+        "label": "GitHub Light High Contrast",
+        "uiTheme": "vs-dark",
+        "path": "./themes/github-light-high-contrast-theme.json"
+      },
+      {
+        "label": "Houston",
+        "uiTheme": "vs-dark",
+        "path": "./themes/houston-theme.json"
+      },
+      {
+        "label": "LaserWave",
+        "uiTheme": "vs-dark",
+        "path": "./themes/laserwave-theme.json"
+      },
+      {
+        "label": "Light Plus",
+        "uiTheme": "vs-dark",
+        "path": "./themes/light-plus-theme.json"
+      },
+      {
+        "label": "Material Theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/material-theme-theme.json"
+      },
+      {
+        "label": "Material Theme Darker",
+        "uiTheme": "vs-dark",
+        "path": "./themes/material-theme-darker-theme.json"
+      },
+      {
+        "label": "Material Theme Lighter",
+        "uiTheme": "vs-dark",
+        "path": "./themes/material-theme-lighter-theme.json"
+      },
+      {
+        "label": "Material Theme Ocean",
+        "uiTheme": "vs-dark",
+        "path": "./themes/material-theme-ocean-theme.json"
+      },
+      {
+        "label": "Material Theme Palenight",
+        "uiTheme": "vs-dark",
+        "path": "./themes/material-theme-palenight-theme.json"
+      },
+      {
+        "label": "Min Dark",
+        "uiTheme": "vs-dark",
+        "path": "./themes/min-dark-theme.json"
+      },
+      {
+        "label": "Min Light",
+        "uiTheme": "vs-dark",
+        "path": "./themes/min-light-theme.json"
+      },
+      {
+        "label": "Monokai",
+        "uiTheme": "vs-dark",
+        "path": "./themes/monokai-theme.json"
+      },
+      {
+        "label": "Night Owl",
+        "uiTheme": "vs-dark",
+        "path": "./themes/night-owl-theme.json"
+      },
+      {
+        "label": "Nord",
+        "uiTheme": "vs-dark",
+        "path": "./themes/nord-theme.json"
+      },
+      {
+        "label": "One Dark Pro",
+        "uiTheme": "vs-dark",
+        "path": "./themes/one-dark-pro-theme.json"
+      },
+      {
+        "label": "One Light",
+        "uiTheme": "vs-dark",
+        "path": "./themes/one-light-theme.json"
+      },
+      {
+        "label": "Plastic",
+        "uiTheme": "vs-dark",
+        "path": "./themes/plastic-theme.json"
+      },
+      {
+        "label": "Poimandres",
+        "uiTheme": "vs-dark",
+        "path": "./themes/poimandres-theme.json"
+      },
+      {
+        "label": "Red",
+        "uiTheme": "vs-dark",
+        "path": "./themes/red-theme.json"
+      },
+      {
+        "label": "Rosé Pine",
+        "uiTheme": "vs-dark",
+        "path": "./themes/rose-pine-theme.json"
+      },
+      {
+        "label": "Rosé Pine Dawn",
+        "uiTheme": "vs-dark",
+        "path": "./themes/rose-pine-dawn-theme.json"
+      },
+      {
+        "label": "Rosé Pine Moon",
+        "uiTheme": "vs-dark",
+        "path": "./themes/rose-pine-moon-theme.json"
+      },
+      {
+        "label": "Slack Dark",
+        "uiTheme": "vs-dark",
+        "path": "./themes/slack-dark-theme.json"
+      },
+      {
+        "label": "Slack Ochin",
+        "uiTheme": "vs-dark",
+        "path": "./themes/slack-ochin-theme.json"
+      },
+      {
+        "label": "Snazzy Light",
+        "uiTheme": "vs-dark",
+        "path": "./themes/snazzy-light-theme.json"
+      },
+      {
+        "label": "Solarized Dark",
+        "uiTheme": "vs-dark",
+        "path": "./themes/solarized-dark-theme.json"
+      },
+      {
+        "label": "Solarized Light",
+        "uiTheme": "vs-dark",
+        "path": "./themes/solarized-light-theme.json"
+      },
+      {
+        "label": "Synthwave '84",
+        "uiTheme": "vs-dark",
+        "path": "./themes/synthwave-84-theme.json"
+      },
+      {
+        "label": "Tokyo Night",
+        "uiTheme": "vs-dark",
+        "path": "./themes/tokyo-night-theme.json"
+      },
+      {
+        "label": "Vesper",
+        "uiTheme": "vs-dark",
+        "path": "./themes/vesper-theme.json"
+      },
+      {
+        "label": "Vitesse Black",
+        "uiTheme": "vs-dark",
+        "path": "./themes/vitesse-black-theme.json"
+      },
+      {
+        "label": "Vitesse Dark",
+        "uiTheme": "vs-dark",
+        "path": "./themes/vitesse-dark-theme.json"
+      },
+      {
+        "label": "Vitesse Light",
+        "uiTheme": "vs-dark",
+        "path": "./themes/vitesse-light-theme.json"
+      }
+    ]
+  },
+  "devDependencies": {
+    "shiki": "^1.16.2"
+  }
+}
