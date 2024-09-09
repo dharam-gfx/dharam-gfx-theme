@@ -9,6 +9,14 @@ Welcome to the **dharam-gfx theme** extension! This Visual Studio Code extension
 Experience a unique blend of colors and design with the **dharam-gfx theme**, tailored to make your code stand out and your workspace vibrant.
 ![dharam-gfx](https://raw.githubusercontent.com/dharam-gfx/dharam-gfx-theme/master/themePreviewImages/dharam-gfx%20theme.png)
 
+### dharam-gfx arc theme
+Discover the sleek and modern **dharam-gfx arc theme**, designed to enhance readability with a clean, well-balanced color palette, making coding more enjoyable.
+![dharam-gfx](https://raw.githubusercontent.com/dharam-gfx/dharam-gfx-theme/master/themePreviewImages/dharam-gfx-arc-theme.png)
+
+### dharam-gfx punk theme
+Unleash creativity with the bold and energetic **dharam-gfx punk theme**, a vibrant mix of colors that turns your coding environment into a lively and dynamic space.
+![dharam-gfx](https://raw.githubusercontent.com/dharam-gfx/dharam-gfx-theme/master/themePreviewImages/dharam-gfx-punk-theme.png)
+
 ### Tokyo Night
 Immerse yourself in the serene and calming hues of **Tokyo Night**. Perfect for late-night coding sessions.
 ![Tokyo Night](https://github.com/dharam-gfx/dharam-gfx-theme/blob/master/themePreviewImages/Tokyo%20Night.png?raw=true)
