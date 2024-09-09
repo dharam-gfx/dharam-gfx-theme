@@ -35,17 +35,17 @@
   "contributes": {
     "themes": [
       {
-        "label": "Dharam-gfx Arc theme",
+        "label": "Dharam-gfx Arc",
         "uiTheme": "vs-dark",
         "path": "./themes/dharam-gfx-theme-arc.json"
       },
       {
-        "label": "Dharam-gfx punk theme",
+        "label": "Dharam-gfx Punk",
         "uiTheme": "vs-dark",
         "path": "./themes/dharam-gfx-theme-punk.json"
       },
       {
-        "label": "Dharam-gfx theme",
+        "label": "Dharam-gfx Default",
         "uiTheme": "vs-dark",
         "path": "./themes/dharam-gfx-theme.json"
       },

@@ -5,7 +5,7 @@ Welcome to the **dharam-gfx theme** extension! This Visual Studio Code extension
 
 ## Preview of Themes
 
-### dharam-gfx theme
+### dharam-gfx default theme
 Experience a unique blend of colors and design with the **dharam-gfx theme**, tailored to make your code stand out and your workspace vibrant.
 ![dharam-gfx](https://raw.githubusercontent.com/dharam-gfx/dharam-gfx-theme/master/themePreviewImages/dharam-gfx%20theme.png)
 
@@ -55,6 +55,9 @@ Our extension includes a diverse range of themes to fit every preference:
 - **Catppuccin Frappé**
 - **Catppuccin Macchiato**
 - **Catppuccin Mocha**
+- **Dharam-gfx Default**
+- **Dharam-gfx Arc**
+- **Dharam-gfx Punk**
 - **Dark Plus**
 - **Dracula Theme**
 - **Dracula Theme Soft**
