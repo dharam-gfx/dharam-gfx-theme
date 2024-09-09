@@ -6,35 +6,35 @@ Welcome to the **dharam-gfx theme** extension! Elevate your coding environment w
 
 ### dharam-gfx theme
 Experience a unique blend of colors and design with the **dharam-gfx theme**, tailored to make your code stand out and your workspace vibrant.
-![dharam-gfx](https://via.placeholder.com/400x200?text=dharam-gfx+theme)
+![dharam-gfx](https://raw.githubusercontent.com/dharam-gfx/dharam-gfx-theme/master/themePreviewImages/dharam-gfx%20theme.png)
 
 ### Tokyo Night
 Immerse yourself in the serene and calming hues of **Tokyo Night**. Perfect for late-night coding sessions.
-![Tokyo Night](https://via.placeholder.com/400x200?text=Tokyo+Night)
+![Tokyo Night](https://github.com/dharam-gfx/dharam-gfx-theme/blob/master/themePreviewImages/Tokyo%20Night.png?raw=true)
 
 ### Slack Dark
 Enjoy a modern, sleek look with **Slack Dark**, designed to reduce eye strain while keeping your code crisp and clear.
-![Slack Dark](https://via.placeholder.com/400x200?text=Slack+Dark)
+![Slack Dark](https://github.com/dharam-gfx/dharam-gfx-theme/blob/master/themePreviewImages/Slack%20Dark.png?raw=true)
 
 ### One Dark
 Embrace the elegance of **One Dark**, a theme renowned for its balanced color scheme and readability.
-![One Dark](https://via.placeholder.com/400x200?text=One+Dark)
+![One Dark](https://github.com/dharam-gfx/dharam-gfx-theme/blob/master/themePreviewImages/One%20Dark.png?raw=true)
 
 ### Material Theme
 Bring a touch of Material Design to your editor with the **Material Theme**. Clean lines and a polished look await.
-![Material Theme](https://via.placeholder.com/400x200?text=Material+Theme)
+![Material Theme](https://github.com/dharam-gfx/dharam-gfx-theme/blob/master/themePreviewImages/Material%20Theme.png?raw=true)
 
 ### GitHub Dark
 Experience the classic **GitHub Dark** theme, ideal for those who prefer a familiar, darkened aesthetic reminiscent of GitHub’s interface.
-![GitHub Dark](https://via.placeholder.com/400x200?text=GitHub+Dark)
+![GitHub Dark](https://github.com/dharam-gfx/dharam-gfx-theme/blob/master/themePreviewImages/GitHub%20Dark.png?raw=true)
 
 ### Dracula Theme
 Dive into the **Dracula Theme**, known for its vibrant colors and high contrast, perfect for a dramatic coding environment.
-![Dracula Theme](https://via.placeholder.com/400x200?text=Dracula+Theme)
+![Dracula Theme](https://github.com/dharam-gfx/dharam-gfx-theme/blob/master/themePreviewImages/Dracula%20Theme.png?raw=true)
 
 ### GitHub Light
 Brighten up your workspace with **GitHub Light**, offering a clean and easy-on-the-eyes light theme.
-![GitHub Light](https://via.placeholder.com/400x200?text=GitHub+Light)
+![GitHub Light](https://github.com/dharam-gfx/dharam-gfx-theme/blob/master/themePreviewImages/GitHub%20Light.png?raw=true)
 
 ## Getting Started
 
