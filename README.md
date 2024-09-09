@@ -43,7 +43,8 @@ Dive into the **Dracula Theme**, known for its vibrant colors and high contrast,
 
 ### GitHub Light
 Brighten up your workspace with **GitHub Light**, offering a clean and easy-on-the-eyes light theme.
-![GitHub Light](https://github.com/dharam-gfx/dharam-gfx-theme/blob/master/themePreviewImages/GitHub%20Light.png?raw=true)
+![GitHub Light](https://github.com/dharam-gfx/dharam-gfx-theme/blob/master/themePreviewImages/GitHub-Light.png?raw=true)
+
 ## Features
 
 Our extension includes a diverse range of themes to fit every preference:

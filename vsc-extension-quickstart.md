@@ -4,9 +4,17 @@ Welcome to the **dharam-gfx theme** extension! Elevate your coding environment w
 
 ## Preview of Themes
 
-### dharam-gfx theme
+### dharam-gfx default theme
 Experience a unique blend of colors and design with the **dharam-gfx theme**, tailored to make your code stand out and your workspace vibrant.
 ![dharam-gfx](https://raw.githubusercontent.com/dharam-gfx/dharam-gfx-theme/master/themePreviewImages/dharam-gfx%20theme.png)
+
+### dharam-gfx arc theme
+Discover the sleek and modern **dharam-gfx arc theme**, designed to enhance readability with a clean, well-balanced color palette, making coding more enjoyable.
+![dharam-gfx](https://raw.githubusercontent.com/dharam-gfx/dharam-gfx-theme/master/themePreviewImages/dharam-gfx-arc-theme.png)
+
+### dharam-gfx punk theme
+Unleash creativity with the bold and energetic **dharam-gfx punk theme**, a vibrant mix of colors that turns your coding environment into a lively and dynamic space.
+![dharam-gfx](https://raw.githubusercontent.com/dharam-gfx/dharam-gfx-theme/master/themePreviewImages/dharam-gfx-punk-theme.png)
 
 ### Tokyo Night
 Immerse yourself in the serene and calming hues of **Tokyo Night**. Perfect for late-night coding sessions.
@@ -34,7 +42,7 @@ Dive into the **Dracula Theme**, known for its vibrant colors and high contrast,
 
 ### GitHub Light
 Brighten up your workspace with **GitHub Light**, offering a clean and easy-on-the-eyes light theme.
-![GitHub Light](https://github.com/dharam-gfx/dharam-gfx-theme/blob/master/themePreviewImages/GitHub%20Light.png?raw=true)
+![GitHub Light](https://github.com/dharam-gfx/dharam-gfx-theme/blob/master/themePreviewImages/GitHub-Light.png?raw=true)
 
 ## Getting Started
 
