@@ -17,6 +17,10 @@ Discover the sleek and modern **dharam-gfx arc theme**, designed to enhance read
 Unleash creativity with the bold and energetic **dharam-gfx punk theme**, a vibrant mix of colors that turns your coding environment into a lively and dynamic space.
 ![dharam-gfx](https://raw.githubusercontent.com/dharam-gfx/dharam-gfx-theme/master/themePreviewImages/dharam-gfx-punk-theme.png)
 
+### dharam-gfx Hacker Theme
+Unleash your inner coder with the bold and edgy **dharam-gfx Hacker theme**. This vibrant, high-contrast theme injects energy into your workspace, making your coding environment both lively and dynamic. Perfect for those who thrive in a visually stimulating setting. 
+![dharam-gfx Hacker](https://raw.githubusercontent.com/dharam-gfx/dharam-gfx-theme/master/themePreviewImages/hacker-theme.png)
+
 ### Tokyo Night
 Immerse yourself in the serene and calming hues of **Tokyo Night**. Perfect for late-night coding sessions.
 ![Tokyo Night](https://github.com/dharam-gfx/dharam-gfx-theme/blob/master/themePreviewImages/Tokyo%20Night.png?raw=true)
@@ -57,6 +61,7 @@ Our extension includes a diverse range of themes to fit every preference:
 - **Catppuccin Macchiato**
 - **Catppuccin Mocha**
 - **Dharam-gfx Default**
+- **Dharam-gfx Hacker**
 - **Dharam-gfx Arc**
 - **Dharam-gfx Punk**
 - **Dark Plus**

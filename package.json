@@ -16,6 +16,8 @@
     "theme",
     "dark theme",
     "best dark theme",
+    "hacker",
+    "hacker theme",
     "coder theme",
     "dharam gfx theme",
     "dharam-gfx theme",
@@ -38,6 +40,11 @@
         "label": "Dharam-gfx Default",
         "uiTheme": "vs-dark",
         "path": "./themes/default-theme.json"
+      },
+      {
+        "label": "Dharam-gfx Hacker",
+        "uiTheme": "vs-dark",
+        "path": "./themes/dharam-gfx-hacker-theme.json"
       },
       {
         "label": "Dharam-gfx Arc",
