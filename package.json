@@ -1,8 +1,8 @@
 {
   "name": "dharam-gfx-theme",
   "displayName": "dharam-gfx theme",
-  "description": "A set of amazing theme to write and teach code",
-  "version": "0.0.3",
+  "description": "Beautiful themes to enhance your coding and teaching experience.",
+  "version": "0.0.4",
   "publisher": "dharam-gfx-theme",
   "icon": "images/dharamgfx.png",
   "repository": {
