@@ -107,9 +107,15 @@ Our extension includes a diverse range of themes to fit every preference:
 
 In total, the extension includes **10 light themes** and **25 dark themes**, offering a wide variety of visual styles to match your preferences.
 
+## Local Test
+![LocalTest](https://github.com/dharam-gfx/dharam-gfx-theme/blob/master/themePreviewImages/localtest.png?raw=true)
+
+## Preview of Extension
+![Extension](https://github.com/dharam-gfx/dharam-gfx-theme/blob/master/themePreviewImages/extension.png?raw=true)
+
 ## Installation
 
-To install the **dharam-gfx theme** extension, you can use the [Visual Studio Code Marketplace](https://marketplace.visualstudio.com/) or run the following command:
+To install the **dharam-gfx theme** extension, you can use the [Visual Studio Code Marketplace](https://marketplace.visualstudio.com/items?itemName=dharam-gfx-theme.dharam-gfx-theme) or run the following command:
 
 ```bash
 code --install-extension dharam-gfx-theme
