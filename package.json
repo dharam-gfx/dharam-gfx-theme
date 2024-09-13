@@ -2,7 +2,7 @@
   "name": "dharam-gfx-theme",
   "displayName": "dharam-gfx theme",
   "description": "Beautiful themes to enhance your coding and teaching experience.",
-  "version": "0.0.5",
+  "version": "0.0.6",
   "publisher": "dharam-gfx-theme",
   "icon": "images/dharamgfx.png",
   "repository": {
@@ -28,8 +28,14 @@
     "Slack Dark",
     "One Dark",
     "Material Theme",
-    "GitHub Dark",
-    "Dracula Theme"
+    "GitHub Theme",
+    "Dracula Theme",
+    "Diamond",
+    "Arc",
+    "WebDev",
+    "Cyberpunk",
+    "Emerald",
+    "Monokai"
   ],
   "categories": [
     "Themes"
@@ -40,6 +46,51 @@
         "label": "Dharam-gfx Default",
         "uiTheme": "vs-dark",
         "path": "./themes/default-theme.json"
+      },
+      {
+        "label": "Dharam-gfx Amethyst",
+        "uiTheme": "vs-dark",
+        "path": "./themes/dharam-gfx-amethyst.json"
+      },
+      {
+        "label": "Dharam-gfx Anthracite",
+        "uiTheme": "vs-dark",
+        "path": "./themes/dharam-gfx-anthracite.json"
+      },
+      {
+        "label": "Dharam-gfx Arc BlueBerry",
+        "uiTheme": "vs-dark",
+        "path": "./themes/dharam-gfx-arc-blueberry.json"
+      },
+      {
+        "label": "Dharam-gfx Arc Eggplant",
+        "uiTheme": "vs-dark",
+        "path": "./themes/dharam-gfx-arc-eggplant.json"
+      },
+      {
+        "label": "Dharam-gfx Arc Reversed",
+        "uiTheme": "vs-dark",
+        "path": "./themes/dharam-gfx-arc-reversed.json"
+      },
+      {
+        "label": "Dharam-gfx Cyberpunk",
+        "uiTheme": "vs-dark",
+        "path": "./themes/dharam-gfx-cyberpunk.json"
+      },
+      {
+        "label": "Dharam-gfx Diamond",
+        "uiTheme": "vs-dark",
+        "path": "./themes/dharam-gfx-diamond.json"
+      },
+      {
+        "label": "Dharam-gfx Emerald",
+        "uiTheme": "vs-dark",
+        "path": "./themes/dharam-gfx-emerald.json"
+      },
+      {
+        "label": "Dharam-gfx Gold",
+        "uiTheme": "vs-dark",
+        "path": "./themes/dharam-gfx-gold.json"
       },
       {
         "label": "Dharam-gfx Hacker",
@@ -57,44 +108,9 @@
         "path": "./themes/dharam-gfx-theme-punk.json"
       },
       {
-        "label": "Andromeeda",
+        "label": "Dharam-gfx WebDevCody",
         "uiTheme": "vs-dark",
-        "path": "./themes/andromeeda-theme.json"
-      },
-      {
-        "label": "Aurora X",
-        "uiTheme": "vs-dark",
-        "path": "./themes/aurora-x-theme.json"
-      },
-      {
-        "label": "Ayu Dark",
-        "uiTheme": "vs-dark",
-        "path": "./themes/ayu-dark-theme.json"
-      },
-      {
-        "label": "Catppuccin Frappé",
-        "uiTheme": "vs-dark",
-        "path": "./themes/catppuccin-frappe-theme.json"
-      },
-      {
-        "label": "Catppuccin Latte",
-        "uiTheme": "vs-dark",
-        "path": "./themes/catppuccin-latte-theme.json"
-      },
-      {
-        "label": "Catppuccin Macchiato",
-        "uiTheme": "vs-dark",
-        "path": "./themes/catppuccin-macchiato-theme.json"
-      },
-      {
-        "label": "Catppuccin Mocha",
-        "uiTheme": "vs-dark",
-        "path": "./themes/catppuccin-mocha-theme.json"
-      },
-      {
-        "label": "Dark Plus",
-        "uiTheme": "vs-dark",
-        "path": "./themes/dark-plus-theme.json"
+        "path": "./themes/dharam-gfx-webdevcody.json"
       },
       {
         "label": "Dracula Theme",
@@ -122,9 +138,9 @@
         "path": "./themes/github-dark-theme.json"
       },
       {
-        "label": "GitHub Dark Default",
+        "label": "GitHub Colorblind",
         "uiTheme": "vs-dark",
-        "path": "./themes/github-dark-default-theme.json"
+        "path": "./themes/github-colorblind.json"
       },
       {
         "label": "GitHub Dark Dimmed",
@@ -142,36 +158,6 @@
         "path": "./themes/github-light-theme.json"
       },
       {
-        "label": "GitHub Light Default",
-        "uiTheme": "vs-dark",
-        "path": "./themes/github-light-default-theme.json"
-      },
-      {
-        "label": "GitHub Light High Contrast",
-        "uiTheme": "vs-dark",
-        "path": "./themes/github-light-high-contrast-theme.json"
-      },
-      {
-        "label": "Houston",
-        "uiTheme": "vs-dark",
-        "path": "./themes/houston-theme.json"
-      },
-      {
-        "label": "LaserWave",
-        "uiTheme": "vs-dark",
-        "path": "./themes/laserwave-theme.json"
-      },
-      {
-        "label": "Light Plus",
-        "uiTheme": "vs-dark",
-        "path": "./themes/light-plus-theme.json"
-      },
-      {
-        "label": "Material Theme",
-        "uiTheme": "vs-dark",
-        "path": "./themes/material-theme-theme.json"
-      },
-      {
         "label": "Material Theme Darker",
         "uiTheme": "vs-dark",
         "path": "./themes/material-theme-darker-theme.json"
@@ -187,21 +173,6 @@
         "path": "./themes/material-theme-ocean-theme.json"
       },
       {
-        "label": "Material Theme Palenight",
-        "uiTheme": "vs-dark",
-        "path": "./themes/material-theme-palenight-theme.json"
-      },
-      {
-        "label": "Min Dark",
-        "uiTheme": "vs-dark",
-        "path": "./themes/min-dark-theme.json"
-      },
-      {
-        "label": "Min Light",
-        "uiTheme": "vs-dark",
-        "path": "./themes/min-light-theme.json"
-      },
-      {
         "label": "Monokai",
         "uiTheme": "vs-dark",
         "path": "./themes/monokai-theme.json"
@@ -210,11 +181,6 @@
         "label": "Night Owl",
         "uiTheme": "vs-dark",
         "path": "./themes/night-owl-theme.json"
-      },
-      {
-        "label": "Nord",
-        "uiTheme": "vs-dark",
-        "path": "./themes/nord-theme.json"
       },
       {
         "label": "One Dark Pro",
@@ -227,36 +193,6 @@
         "path": "./themes/one-light-theme.json"
       },
       {
-        "label": "Plastic",
-        "uiTheme": "vs-dark",
-        "path": "./themes/plastic-theme.json"
-      },
-      {
-        "label": "Poimandres",
-        "uiTheme": "vs-dark",
-        "path": "./themes/poimandres-theme.json"
-      },
-      {
-        "label": "Red",
-        "uiTheme": "vs-dark",
-        "path": "./themes/red-theme.json"
-      },
-      {
-        "label": "Rosé Pine",
-        "uiTheme": "vs-dark",
-        "path": "./themes/rose-pine-theme.json"
-      },
-      {
-        "label": "Rosé Pine Dawn",
-        "uiTheme": "vs-dark",
-        "path": "./themes/rose-pine-dawn-theme.json"
-      },
-      {
-        "label": "Rosé Pine Moon",
-        "uiTheme": "vs-dark",
-        "path": "./themes/rose-pine-moon-theme.json"
-      },
-      {
         "label": "Slack Dark",
         "uiTheme": "vs-dark",
         "path": "./themes/slack-dark-theme.json"
@@ -267,21 +203,6 @@
         "path": "./themes/slack-ochin-theme.json"
       },
       {
-        "label": "Snazzy Light",
-        "uiTheme": "vs-dark",
-        "path": "./themes/snazzy-light-theme.json"
-      },
-      {
-        "label": "Solarized Dark",
-        "uiTheme": "vs-dark",
-        "path": "./themes/solarized-dark-theme.json"
-      },
-      {
-        "label": "Solarized Light",
-        "uiTheme": "vs-dark",
-        "path": "./themes/solarized-light-theme.json"
-      },
-      {
         "label": "Synthwave '84",
         "uiTheme": "vs-dark",
         "path": "./themes/synthwave-84-theme.json"
@@ -290,26 +211,6 @@
         "label": "Tokyo Night",
         "uiTheme": "vs-dark",
         "path": "./themes/tokyo-night-theme.json"
-      },
-      {
-        "label": "Vesper",
-        "uiTheme": "vs-dark",
-        "path": "./themes/vesper-theme.json"
-      },
-      {
-        "label": "Vitesse Black",
-        "uiTheme": "vs-dark",
-        "path": "./themes/vitesse-black-theme.json"
-      },
-      {
-        "label": "Vitesse Dark",
-        "uiTheme": "vs-dark",
-        "path": "./themes/vitesse-dark-theme.json"
-      },
-      {
-        "label": "Vitesse Light",
-        "uiTheme": "vs-dark",
-        "path": "./themes/vitesse-light-theme.json"
       }
     ]
   },
