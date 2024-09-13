@@ -1,4 +1,3 @@
-
 # dharam-gfx Theme Extension
 
 Welcome to the **dharam-gfx theme** extension! This Visual Studio Code extension features a collection of meticulously crafted themes designed to enhance your coding experience. With a blend of vibrant and soothing colors, our themes are tailored to provide both aesthetic appeal and functionality. Whether you prefer a light or dark theme, we have options to suit your needs.
