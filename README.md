@@ -20,13 +20,25 @@ Unleash creativity with the bold and energetic **dharam-gfx punk theme**, a vibr
 Unleash your inner coder with the bold and edgy **dharam-gfx Hacker theme**. This vibrant, high-contrast theme injects energy into your workspace, making your coding environment both lively and dynamic. Perfect for those who thrive in a visually stimulating setting. 
 ![dharam-gfx Hacker](https://raw.githubusercontent.com/dharam-gfx/dharam-gfx-theme/master/themePreviewImages/hacker-theme.png)
 
+### dharam-gfx Cyberpunk Theme  
+Ignite your coding experience with the **dharam-gfx Cyberpunk theme**. This bold, high-contrast theme immerses you in a futuristic world, making every line of code feel like you’re in the heart of a cybercity. Ideal for coders who love edgy, vibrant colors.  
+![dharam-gfx Cyberpunk](https://raw.githubusercontent.com/dharam-gfx/dharam-gfx-theme/c494f399a7cb8df07de9bb50855da46b255a33c3/themePreviewImages/Cyberpunk.png)
+
+### dharam-gfx Amethyst Theme  
+Dive into a world of soothing purples with the **dharam-gfx Amethyst theme**. This theme blends calm and focus, perfect for those who prefer an elegant yet vibrant coding environment. Its deep shades of purple add a touch of sophistication to your workspace.  
+![dharam-gfx Amethyst](https://raw.githubusercontent.com/dharam-gfx/dharam-gfx-theme/c494f399a7cb8df07de9bb50855da46b255a33c3/themePreviewImages/amethyst.png)
+
+### dharam-gfx WebDevCody Theme  
+The **dharam-gfx WebDevCody theme** combines sleek, modern design with highly readable contrast, making it a favorite for web developers. This theme keeps your coding environment sharp and easy on the eyes, so you can stay productive while enjoying a visually clean interface.  
+![dharam-gfx WebDevCody](https://raw.githubusercontent.com/dharam-gfx/dharam-gfx-theme/c494f399a7cb8df07de9bb50855da46b255a33c3/themePreviewImages/webdevcody.png)
+
 ### Tokyo Night
 Immerse yourself in the serene and calming hues of **Tokyo Night**. Perfect for late-night coding sessions.
 ![Tokyo Night](https://github.com/dharam-gfx/dharam-gfx-theme/blob/master/themePreviewImages/Tokyo%20Night.png?raw=true)
 
 ### Slack Dark
 Enjoy a modern, sleek look with **Slack Dark**, designed to reduce eye strain while keeping your code crisp and clear.
-![Slack Dark](https://github.com/dharam-gfx/dharam-gfx-theme/blob/master/themePreviewImages/Slack%20Dark.png?raw=true)
+![Slack Dark](https://raw.githubusercontent.com/dharam-gfx/dharam-gfx-theme/master/themePreviewImages/Slack%20Dark.png)
 
 ### One Dark
 Embrace the elegance of **One Dark**, a theme renowned for its balanced color scheme and readability.
@@ -34,11 +46,11 @@ Embrace the elegance of **One Dark**, a theme renowned for its balanced color sc
 
 ### Material Theme
 Bring a touch of Material Design to your editor with the **Material Theme**. Clean lines and a polished look await.
-![Material Theme](https://github.com/dharam-gfx/dharam-gfx-theme/blob/master/themePreviewImages/Material%20Theme.png?raw=true)
+![Material Theme](https://raw.githubusercontent.com/dharam-gfx/dharam-gfx-theme/c494f399a7cb8df07de9bb50855da46b255a33c3/themePreviewImages/Material%20Theme.png)
 
 ### GitHub Dark
 Experience the classic **GitHub Dark** theme, ideal for those who prefer a familiar, darkened aesthetic reminiscent of GitHub’s interface.
-![GitHub Dark](https://github.com/dharam-gfx/dharam-gfx-theme/blob/master/themePreviewImages/GitHub%20Dark.png?raw=true)
+![GitHub Dark](https://raw.githubusercontent.com/dharam-gfx/dharam-gfx-theme/c494f399a7cb8df07de9bb50855da46b255a33c3/themePreviewImages/GitHub%20Dark.png)
 
 ### Dracula Theme
 Dive into the **Dracula Theme**, known for its vibrant colors and high contrast, perfect for a dramatic coding environment.
@@ -48,68 +60,51 @@ Dive into the **Dracula Theme**, known for its vibrant colors and high contrast,
 Brighten up your workspace with **GitHub Light**, offering a clean and easy-on-the-eyes light theme.
 ![GitHub Light](https://github.com/dharam-gfx/dharam-gfx-theme/blob/master/themePreviewImages/GitHub-Light.png?raw=true)
 
+Here's an updated version of the **Features** section based on the theme labels you provided:
+
+---
+
 ## Features
 
-Our extension includes a diverse range of themes to fit every preference:
+Our extension offers a wide selection of themes designed to suit various preferences and styles:
 
 ### Dark Themes
-- **Andromeeda**
-- **Aurora X**
-- **Ayu Dark**
-- **Catppuccin Frappé**
-- **Catppuccin Macchiato**
-- **Catppuccin Mocha**
-- **Dharam-gfx Default**
-- **Dharam-gfx Hacker**
-- **Dharam-gfx Arc**
-- **Dharam-gfx Punk**
-- **Dark Plus**
+- **Default**
+- **Amethyst**
+- **Anthracite**
+- **Arc BlueBerry**
+- **Arc Eggplant**
+- **Arc Reversed**
+- **Cyberpunk**
+- **Diamond**
+- **Emerald**
+- **Gold**
+- **Hacker**
+- **Arc**
+- **Punk**
+- **WebDevCody**
 - **Dracula Theme**
 - **Dracula Theme Soft**
 - **Everforest Dark**
 - **GitHub Dark**
-- **GitHub Dark Default**
+- **GitHub Colorblind**
 - **GitHub Dark Dimmed**
 - **GitHub Dark High Contrast**
-- **Houston**
-- **LaserWave**
-- **Min Dark**
 - **Monokai**
 - **Night Owl**
-- **Nord**
 - **One Dark Pro**
-- **Plastic**
-- **Poimandres**
-- **Red**
-- **Rosé Pine**
-- **Rosé Pine Dawn**
-- **Rosé Pine Moon**
 - **Slack Dark**
+- **Slack Ochin**
 - **Synthwave '84**
+- **Synthwave Outrun**
 - **Tokyo Night**
-- **Vesper**
-- **Vitesse Black**
-- **Vitesse Dark**
 
 ### Light Themes
-- **Ayu Light**
-- **Catppuccin Latte**
 - **Everforest Light**
 - **GitHub Light**
-- **GitHub Light Default**
-- **GitHub Light High Contrast**
-- **Light Plus**
-- **Material Theme**
-- **Material Theme Darker**
-- **Material Theme Lighter**
-- **Material Theme Ocean**
-- **Material Theme Palenight**
-- **Min Light**
-- **Snazzy Light**
-- **Solarized Light**
-- **Vitesse Light**
+- **One Light**
 
-In total, the extension includes **10 light themes** and **25 dark themes**, offering a wide variety of visual styles to match your preferences.
+---
 
 ## Local Test
 ![LocalTest](https://github.com/dharam-gfx/dharam-gfx-theme/blob/master/themePreviewImages/localtest.png?raw=true)

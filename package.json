@@ -2,7 +2,7 @@
   "name": "dharam-gfx-theme",
   "displayName": "dharam-gfx theme",
   "description": "Beautiful themes to enhance your coding and teaching experience.",
-  "version": "0.0.6",
+  "version": "0.0.7",
   "publisher": "dharam-gfx-theme",
   "icon": "images/dharamgfx.png",
   "repository": {
@@ -35,7 +35,9 @@
     "WebDev",
     "Cyberpunk",
     "Emerald",
-    "Monokai"
+    "Monokai",
+    "Night Owl",
+    "Synthwave"
   ],
   "categories": [
     "Themes"
@@ -206,6 +208,11 @@
         "label": "Synthwave '84",
         "uiTheme": "vs-dark",
         "path": "./themes/synthwave-84-theme.json"
+      },
+      {
+        "label": "Synthwave Outrun",
+        "uiTheme": "vs-dark",
+        "path": "./themes/synthwave-outrun-theme.json"
       },
       {
         "label": "Tokyo Night",
